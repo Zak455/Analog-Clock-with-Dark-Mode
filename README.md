@@ -24,3 +24,4 @@ Contributions and suggestions are welcome! Feel free to fork the repository, mak
 Creative Commons License
 
 # Demo:
+[CLICK HERE TO SEE THE ANALOG CLOCK](https://zak455.github.io/Analog-Clock-with-Dark-Mode/)
